@@ -1,0 +1,4 @@
+# ALL: primary fails, secondary succeeds; at least one success means overall SUCCESS
+GT4500,2,1.0,2,0.0
+TORPEDO,ALL
+EXIT
