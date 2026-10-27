@@ -1,0 +1,4 @@
+# ALL with both stores loaded and no failures
+GT4500,2,0.0,2,0.0
+TORPEDO,ALL
+EXIT

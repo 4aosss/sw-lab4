@@ -1,0 +1,4 @@
+# First SINGLE shot is from primary: primary failure makes result FAIL, unlike secondary's 0% failure
+GT4500,2,1.0,2,0.0
+TORPEDO,SINGLE
+EXIT

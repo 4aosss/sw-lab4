@@ -1,0 +1,4 @@
+# A failed primary shot must not fall back to the working secondary store
+GT4500,2,1.0,2,0.0
+TORPEDO,SINGLE
+EXIT

@@ -1,0 +1,4 @@
+# Primary empty; secondary has one working torpedo
+GT4500,0,0.0,1,0.0
+TORPEDO,SINGLE
+EXIT
